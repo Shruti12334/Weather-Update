@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather Update</string>
+    <string name="city_field_can_not_be_empty">City Field Can Not Be Empty!</string>
+    <string name="error_parsing_json">Error parsing JSON</string>
+    <string name="scity_field_can_not_be_empty">City Field Can Not Be Empty!</string>
+</resources>
